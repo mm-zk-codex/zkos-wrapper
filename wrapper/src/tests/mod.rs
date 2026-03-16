@@ -41,6 +41,7 @@ type F = boojum::field::goldilocks::GoldilocksField;
 mod blake2s_tests;
 mod compression_tests;
 mod risc_wrapper_tests;
+mod snark_synthesize_bench;
 mod snark_wrapper_tests;
 
 #[test]
